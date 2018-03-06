@@ -30,7 +30,7 @@ Para o desenvolvimento do projeto, foram utilizadas as seguintes ferramentas:
 * Photoshop 2017 cc - utilizado para otimizar as imagens;
 * Utilização de Frameworks: Lumen\Laravel, Materialize;
 
-#Tutorial
+# Tutorial
 
 ## I N I C I A L I Z A N D O   O  S E R V I D O R   P H P
 Para inicializar o servidor PHP, basta apenas iniciar o arquivo "install_finch.bat" e
