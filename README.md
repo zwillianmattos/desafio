@@ -1,4 +1,4 @@
-## O B J E T I V O P R I N C I P A L
+## O B J E T I V O   P R I N C I P A L
 O objetivo desse projeto consiste em exibir meus conhecimentos em
 desenvolvimento web utilizando as ferramentas:
 * Lumen\Laravel;
@@ -9,11 +9,11 @@ desenvolvimento web utilizando as ferramentas:
 * HTML5 + CSS3;
 * JAVASCRIPT;
 
-## P Á G I N A S W E B
+## P Á G I N A S   W E B
 Landing Page => https://finchai.000webhostapp.com/
 Painel Administrativo => https://finchai.000webhostapp.com/admin
 
-## S O B R E O P R O J E T O
+## S O B R E   O   P R O J E T O
 Neste projeto criei uma empresa fictícia, que está no ramo de Desenvolvimento
 e Pesquisas em AI.
 Na Landing Page é exibida uma página da Empresa explicando o que ela
@@ -21,7 +21,7 @@ faz, quais seus objetivos, seus projetos e pesquisas.
 A Landing Page possui uma área onde os usuários podem contribuir com os
 projetos ou pesquisas através de doações ou através de um feedback positivo.
 
-## F E R R A M E N T A S U T I L I Z A D A S
+## F E R R A M E N T A S   U T I L I Z A D A S
 Para o desenvolvimento do projeto, foram utilizadas as seguintes ferramentas:
 * Composer;
 * GitHub;
@@ -32,7 +32,7 @@ Para o desenvolvimento do projeto, foram utilizadas as seguintes ferramentas:
 
 #Tutorial
 
-## I N I C I A L I Z A N D O O S E R V I D O R P H P
+## I N I C I A L I Z A N D O   O  S E R V I D O R   P H P
 Para inicializar o servidor PHP, basta apenas iniciar o arquivo "install_finch.bat" e
 depois o arquivo "start_finch.bat" localizado no diretório raiz do projeto.
 Em caso de erro, execute no cmd do windows:
