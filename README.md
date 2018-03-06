@@ -56,3 +56,13 @@ DB_DATABASE=finchAI
 DB_USERNAME=root
 DB_PASSWORD=senha
 ```
+## E X E C U T A N D O   A S   T A B E L A S   E   S E E D S
+Com o banco criado, abra o cmd e digite os comandos:
+```
+>>php artisan migrate
+```
+Após a migração, execute as seeds:
+```
+>>php artisan db:seed
+```
+As seeds podem ser alteradas no diretório: "Database\Seeds"
