@@ -38,16 +38,21 @@ depois o arquivo "start_finch.bat" localizado no diretório raiz do projeto.
 Em caso de erro, execute no cmd do windows:
 ```
 >> php -S localhost:8000 -t public
-
-´´´
+````
 ## B A N C O D E D A D O S
 Crie um banco de dados em sua rede local e coloque o acesso no arquivo ".env"
 localizado no diretório raiz do projeto.
-Mysql: >> CREATE DATABASE `finchai`;
+
+Mysql: 
+```
+>> CREATE DATABASE `finchai`;
+```
 .env:
+```
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3306
 DB_DATABASE=finchAI
 DB_USERNAME=root
 DB_PASSWORD=senha
+```
